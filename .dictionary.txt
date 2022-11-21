@@ -5,6 +5,7 @@ esbenp
 fbca
 hmarr
 micnncim
+solutionist
 syncer
 vsicons
 yarnrc
