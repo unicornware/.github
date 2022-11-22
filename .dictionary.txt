@@ -2,9 +2,11 @@ anson
 cefc
 dedupe
 esbenp
+esbuild
 fbca
 hmarr
 micnncim
+nestjs
 solutionist
 syncer
 vsicons

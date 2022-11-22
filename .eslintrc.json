@@ -145,6 +145,13 @@
       "rules": {
         "yml/key-name-casing": 0
       }
+    },
+    {
+      "files": ["README.md"],
+      "rules": {
+        "markdownlint/MD002": [2, { "level": 2 }],
+        "markdownlint/MD041": 0
+      }
     }
   ]
 }
